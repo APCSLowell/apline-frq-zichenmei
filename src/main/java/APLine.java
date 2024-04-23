@@ -11,7 +11,7 @@ public class APLine
     c=f;
   }
   public double getSlope(){
-    double slope=(double)((0-a)/b);
+    double slope=((double)(0-a)/(double)b);
     return slope;
   }
   public boolean isOnLine(int x, int y){
