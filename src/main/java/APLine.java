@@ -5,7 +5,7 @@ public class APLine
   private int b;
   private int c;
   
-  public APLine(int d; int e; int f){
+  public APLine(int d, int e, int f){
     a=d;
     b=e;
     c=f;
